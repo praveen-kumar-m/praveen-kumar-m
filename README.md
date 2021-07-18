@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @praveen-kumar-m
+- 👋 Hi, I’m Praveen Kumar
 - 👀 I’m interested in web
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on javascript projects
